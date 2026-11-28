@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="BOAI">
+  <defs><linearGradient id="dp-pulse" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#9fd6c4"/><stop offset=".45" stop-color="#f0c75e"/><stop offset="1" stop-color="#ffd98a"/></linearGradient></defs>
+  <rect width="100" height="100" rx="24" fill="#173d3d"/>
+  <g>
+    <g fill="#9fd6c4" opacity=".2"><rect x="21" y="63" width="11" height="17" rx="2.5"/><rect x="37" y="55" width="11" height="25" rx="2.5"/><rect x="53" y="46" width="11" height="34" rx="2.5"/><rect x="69" y="35" width="11" height="45" rx="2.5"/></g>
+    <path d="M13 57 H29 L36 44 L44 69 L54 25 L62 57 H69 L83 38" fill="none" stroke="url(#dp-pulse)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M72.4 41 L83 38 L83.3 49" fill="none" stroke="#ffd98a" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

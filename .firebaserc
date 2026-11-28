@@ -1,0 +1,17 @@
+{
+  "projects": {
+    "default": "bizplus-d6aa4"
+  },
+  "targets": {
+    "bizplus-d6aa4": {
+      "hosting": {
+        "admin-uat": [
+          "boai-build-admin"
+        ],
+        "admin-prod": [
+          "boai-admin"
+        ]
+      }
+    }
+  }
+}
